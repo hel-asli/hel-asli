@@ -1,24 +1,56 @@
-<h3 align="center">A passionate Software Engenire from Morocco</h3>
+# Hamza El Asli
 
+<h3 align="center">A passionate Software Engineer from Morocco</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-asli-874119285)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elaslihamza224@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hel-asli&label=Profile%20views&color=0e75b6&style=flat" alt="hel-asli" /> </p>
 
-- 🌱 I’m currently learning **Low Level Programing Concepts**
+## About Me
 
-- 💬 Ask me about **Java Script , C ...**
+I am a coding enthusiast and an aspiring software engineer, immersed in studies at 1337 (42 Network) Coding School. With a strong background in computer science and software engineering, I am passionate about creating innovative and user-friendly web solutions that can make a positive impact on people's lives.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/hel-asli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hel-asli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamza el alsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza el alsi" height="30" width="40" /></a>
-</p>
+- 🌱 I'm currently learning **Low Level Programming Concepts**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 💬 Ask me about **JavaScript, C**
+
+## Education
+
+- **1337 Coding School**, Computer Science, Software Engineering _(October 2023 - Present)_
+- **Institut Spécialisé de Technologie Appliquée Cité de l'Air**, Associate's degree, Computer Science, Web development _(October 2021 - July 2023)_
+- **lycée 30 juillet**, High School Diploma, Physical Sciences _(October 2017 - June 2020)_
+
+## Skills
+
+- **Programming Languages**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25">
+- **Front-End Development**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.svg" alt="Styled Components" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="25" height="25">
+- **Back-End Development**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="25" height="25"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="25" height="25">
+- **Tools & Technologies**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="25" height="25">
+
+## Experience
+
+### 1337 Coding School
+**Student Software Engineer** _(November 2023 - Present)_
+- Studying computer science and software engineering through a project-based curriculum.
+- Recently completed a 45-day internship, contributing to the development of a cutting-edge web application using React, HTML, CSS, SCSS, styled components, and JavaScript.
+- Crafted an immersive and visually stunning user experience, implementing responsive designs and integrating dynamic functionality.
+- Utilized Git for version control, Firebase for backend services, and agile methodologies for project management.
+
+## Certifications
+
+- Legacy JavaScript Algorithms and Data Structures
+
+## Languages
+
+- French (Professional Working)
+- English (Full Professional)
+
+## Let's Connect
+
+I'm always eager to learn and collaborate with other professionals in the field. Feel free to reach out to me through email or LinkedIn, and let's explore exciting opportunities together!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hel-asli&show_icons=true&locale=en&layout=compact" alt="hel-asli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hel-asli&show_icons=true&locale=en" alt="hel-asli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hel-asli&" alt="hel-asli" /></p>
-
-
