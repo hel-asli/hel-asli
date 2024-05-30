@@ -31,10 +31,11 @@ I am a coding enthusiast and an aspiring software engineer, immersed in studies 
 
 ### 1337 Coding School
 **Student Software Engineer** _(November 2023 - Present)_
-- Studying computer science and software engineering through a project-based curriculum.
-- Recently completed a 45-day internship, contributing to the development of a cutting-edge web application using React, HTML, CSS, SCSS, styled components, and JavaScript.
-- Crafted an immersive and visually stunning user experience, implementing responsive designs and integrating dynamic functionality.
-- Utilized Git for version control, Firebase for backend services, and agile methodologies for project management.
+- Studying computer science and software engineering through a project-based curriculum focused on hands-on learning and collaboration.
+- Developing skills in programming, algorithms, data structures, computer architecture, and software engineering principles.
+- Participating in rigorous coding projects that simulate real-world challenges and industry practices.
+- Exploring various programming languages and technologies, including C, C++, Python, JavaScript, and more.
+- Fostering a peer-learning environment through code reviews and knowledge sharing.
 
 ## Certifications
 
