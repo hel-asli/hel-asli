@@ -41,11 +41,6 @@ I am a coding enthusiast and an aspiring software engineer, immersed in studies 
 
 - Legacy JavaScript Algorithms and Data Structures
 
-## Languages
-
-- French (Professional Working)
-- English (Full Professional)
-
 ## Let's Connect
 
 I'm always eager to learn and collaborate with other professionals in the field. Feel free to reach out to me through email or LinkedIn, and let's explore exciting opportunities together!
