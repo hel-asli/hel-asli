@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=200&section=header&text=Hamza%20El%20Asli&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20@%201337&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 ```ts
